@@ -7,8 +7,8 @@ import pytest
 
 import main
 
-SECRET = 'arch@ngel'
-TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjY0NDI1MTMsIm5iZiI6MTY2NTIzMjkxMywiZW1haWwiOiJlY2FrdWJpQGdtYWlsLmNvbSJ9.6wLNEEaqOB1MPh1zQTLEvJhFBiLpXSe5pdXGdrcbp5Y'
+SECRET = 'dummy'
+TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjY0NDI1MTMsIm5iZiI6MTY2NTIzMjkxMywiZW1haWwiOiJlY2FJpQGdtYWlsLmNvbSJ9.6wLNEEaqOB1MPh1zQTLEvJhFBiLpXSeGdrcbp5Y'
 EMAIL = 'ecakubi@gmail.com'
 PASSWORD = 'runn1ng'
 
